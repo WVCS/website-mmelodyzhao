@@ -1,0 +1,59 @@
+body {
+  font-family: system-ui;
+  background: #FAE3C6;
+  color: white;
+      text-align:center;
+}
+h1{color:#678F9D;
+  font-size:570%;
+  letter-spacing:4px;
+  text-decoration:none;
+    text-decoration-color:#678F9D;
+  font-style: Georgia;
+}
+h2{color:#678F9D;
+  font-size:570%;
+  letter-spacing:4px;
+  text-decoration:none;
+    text-decoration-color:#678F9D;
+  font-style: Georgia;
+}
+p{color:#E981B3;
+font-size:450%;
+  font-style: oblique;
+}
+p1{color:#9BC8D8;
+font-size:350%;
+font-style: oblique;}
+p2{color:#9BC8D8;
+font-size:350%;
+font-style: oblique;}
+p3{color:#9BC8D8;
+font-size:350%;
+font-style: oblique;}
+img{width:100px;
+border-style:double;
+  border-color:#444B5E;
+  font-style: oblique;
+}
+iframe{
+  border-style:double;
+}
+ul{
+  list-style-type:none;
+  text-align:center;
+  position:fixed;
+}
+li{
+  float:left;
+}
+li a{
+  padding: 20px;
+  color:#678F9D;
+  font-family: "New Times Roman", Time, Seirf;
+  text-decoration:none;
+  border: none;
+}
+li a:hover{
+  background-color:#B59E86;
+}
