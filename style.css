@@ -11,6 +11,13 @@ h1{color:#678F9D;
     text-decoration-color:#678F9D;
   font-style: Georgia;
 }
+h2{color:#678F9D;
+  font-size:570%;
+  letter-spacing:4px;
+  text-decoration:none;
+    text-decoration-color:#678F9D;
+  font-style: Georgia;
+}
 p{color:#E981B3;
 font-size:450%;
   font-style: oblique;
@@ -45,7 +52,7 @@ li a{
   color:#678F9D;
   font-family: "New Times Roman", Time, Seirf;
   text-decoration:none;
-  border: dashed;
+  border: none;
 }
 li a:hover{
   background-color:#B59E86;
